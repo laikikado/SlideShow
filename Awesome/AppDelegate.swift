@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Awesome
-//
-//  Created by Paul Colombier on 18/02/2019.
-//  Copyright © 2019 Paul Colombier. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
